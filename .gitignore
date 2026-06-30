@@ -1,0 +1,5 @@
+.claude/
+*.zip
+.DS_Store
+AGENT.md
+claude_code_prompt.md
